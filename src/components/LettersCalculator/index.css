@@ -1,0 +1,43 @@
+/* Write your code here. */
+.background-container {
+  background-image: linear-gradient(to right, #1d976c, #93f9b9);
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.details-container {
+  display: flex;
+  flex-direction: row;
+}
+.heading {
+  color: #e4e7eb;
+  height: 23px;
+  text-align: right;
+}
+.first {
+  margin-top: 90px;
+}
+.p {
+  color: #fff;
+  margin-top: 80px;
+  height: 15px;
+}
+.count {
+  background-color: #fff;
+  height: 27px;
+  width: 40%;
+  text-align: center;
+  border-radius: 4px;
+  padding: 3px;
+  color: #1d976c;
+  font-weight: bold;
+}
+.image {
+  height: 380px;
+}
+
+.label {
+  padding: 10px;
+}
